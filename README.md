@@ -1,3 +1,3 @@
 # JLT-IO_List_Generator
 
-https://github.com/JeongJaeHyung/JLT-IO_List_Generator/releases/download/0.0.1/PLC_IO-List_Generator.exe
+[Download Latest Version](https://github.com/JeongJaeHyung/JLT-IO_List_Generator/releases/latest/download/IO_List_Generator.zip)
